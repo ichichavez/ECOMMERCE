@@ -95,7 +95,7 @@ const Navbar = () => {
           
         </Left>
         <Center>
-          <Logo>LAMA.</Logo>
+          <Logo>GALLO'S.</Logo>
         </Center>
         <Right>
            <MenuItem>REGISTER</MenuItem>

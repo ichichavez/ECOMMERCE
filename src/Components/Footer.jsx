@@ -86,7 +86,7 @@ const Footer = () => {
 
     <Container>
         <Left>
-            <Logo>LAMA.</Logo>
+            <Logo>GALLO'S.</Logo>
             <Desc>Lorem ipsum dolor sit amet consectetur adipisicing elit. At a in sit officia 
                 obcaecati? Temporibus ex expedita minus aspernatur, soluta exercitationem. 
                 Modi reiciendis obcaecati facere dolore. Iste sed minima quis. 
